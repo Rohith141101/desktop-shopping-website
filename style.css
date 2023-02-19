@@ -1,0 +1,224 @@
+ 
+ .top {
+    display: flex;
+    border: 2px solid black;
+    padding:2px 0px 2px 730px;
+    background-color: black;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+}
+.top form{
+    margin-left: 35px;
+    margin-top: 15px;
+    color:white;
+}
+.top input{
+    color:white;
+    border: 1px solid white;
+    background-color: black;
+    font-weight: 600;
+    padding: 3px 10px;
+}
+.top:hover{
+    cursor:pointer
+}
+.header{
+    margin-top: 20px;
+}
+.nav-header{
+    padding-bottom: 25px;
+}
+.nav-header:hover{
+   cursor: pointer;
+   color:red;
+}
+.container img{
+    margin-left:125px;
+    margin-top: -10px;
+    padding-bottom: 15px;
+}
+.container img:hover{
+    -ms-transform: scale(-0.9); 
+  -webkit-transform: scale(-0.9); 
+  transform: scale(1.1); 
+  cursor: pointer;
+}
+
+.container button{
+    position:absolute;
+    margin:260px 0px 0px -660px;
+    padding: 5px 20px 5px 20px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 20px;
+    border:1px solid white;
+    font-weight: 600;
+}
+.container button:hover{
+    background-color:rgb(189, 189, 189);
+    color: white;
+    border:1px solid rgb(189, 189, 189);
+    cursor: pointer;
+}
+.line-1 h1{
+    position: absolute;
+    margin-top: -115px;
+    margin-left:150px;
+    color:white;
+}
+.line-2 h1{
+    position: absolute;
+    margin-top: -115px;
+    margin-left:783px;
+    color:white;
+}
+table td{
+    border: 1px solid rgb(230, 230, 230);
+    padding:10px 0px 10px 30px;
+}
+table td:hover{
+    cursor: pointer;
+    background-color: rgb(221, 215, 215);
+}
+table{
+    border-collapse: collapse;
+    margin-left: 170px;
+}
+.footer{
+    padding-top: 10px;
+    display: flex;
+    margin-left: 120px;
+}
+.footer-1 img{
+    opacity:1.2;
+}
+.footer-1 h4{
+    position: absolute;
+    margin-top:-170px;
+    margin-left: 15px;
+    color:white;
+    font-weight: 900;
+}
+.footer-2 img{
+    margin-left: 35px;
+    opacity:1.2;
+}
+.footer-2 h4{
+    position: absolute;
+    margin-top:-170px;
+    margin-left: 50px;
+    color:white;
+    font-weight: 900;
+}
+.footer-1 img:hover{
+    -ms-transform: scale(0.5); 
+  -webkit-transform: scale(0.5); 
+  transform: scale(1.1); 
+  cursor: pointer;
+}
+.footer-2 img:hover{
+    -ms-transform: scale(0.5); 
+  -webkit-transform: scale(0.5); 
+  transform: scale(1.1); 
+  cursor: pointer;
+}
+.img-btn1 button{
+    position: absolute;
+    margin-top: -35px;
+    margin-left:125px;
+    background-color: rgb(223, 216, 216);
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    color:white;
+    font-weight:600;
+}
+.img-btn1 button:hover{
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.img-btn2 button{
+    position: absolute;
+    margin-top: -35px;
+    margin-left:680px;
+    background-color: rgb(223, 216, 216);
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    color:white;
+    font-weight:600;
+}
+.img-btn2 button:hover{
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.end{
+    display: flex;
+}
+.end-text{
+    display: flex;
+}
+.form-1 input{
+    margin-top: 70px;
+    margin-left: -380px;
+    background-color: rgb(219, 220, 222);
+    border: 1px solid rgb(219, 220, 222);
+    font-family: sans-serif;
+    padding: 3px 50px 3px 5px;
+    font-weight: bolder;
+}
+.form-1 button{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: 12px;
+    border-radius: 5px;
+    padding: 1px 5px;
+}
+.form-1 button:hover{
+    cursor:pointer;
+    padding:5px 10px;
+    border-radius: 5px;
+}
+.icons{
+    margin-left: 860px;
+    margin-top: -43px;
+}
+
+.fa {  
+    padding: 4px;  
+    border-radius: 3px;
+  text-align: center;    
+    font-size: 30px;  
+    width: 30px;  
+    text-decoration: none;
+  }  
+  .fa-facebook {  
+    background: black;  
+    color: white;  
+  }  
+  .fa-twitter {  
+    background: black;  
+    color: white;  
+  }  
+  .fa-pinterest {  
+    background: black;  
+    color: white;  
+  }  
+  .fa-linkedin {  
+    background: black;  
+    color: white;  
+  }  
+  .fa-instagram {  
+    background: black;  
+    color: white;  
+  }  
+  .fa-youtube {  
+    background:black;  
+    color: white;  
+  }  
+  .fa-google {  
+    background: black;  
+    color: white;  
+  }  
+
